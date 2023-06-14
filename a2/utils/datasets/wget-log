@@ -1,0 +1,12 @@
+--2023-03-10 18:02:46--  http://nlp.stanford.edu/~socherr/stanfordSentimentTreebank.zip
+Resolving nlp.stanford.edu (nlp.stanford.edu)... 171.64.67.140
+Connecting to nlp.stanford.edu (nlp.stanford.edu)|171.64.67.140|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://nlp.stanford.edu/~socherr/stanfordSentimentTreebank.zip [following]
+--2023-03-10 18:02:48--  https://nlp.stanford.edu/~socherr/stanfordSentimentTreebank.zip
+Connecting to nlp.stanford.edu (nlp.stanford.edu)|171.64.67.140|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6372817 (6.1M) [application/zip]
+Saving to: ‘stanfordSentimentTreebank.zip’
+
+p                     2%[                    ] 144.00K  --.-KB/s    eta 2h 0m                        2%[                    ] 144.00K  --.-KB/s    eta 2h 0m                    s   2%[                    ] 144.00K  --.-KB/s    eta 2h 1m                   st   2%[                    ] 144.00K  --.-KB/s    eta 2h 1m                  sta   2%[                    ] 144.00K  --.-KB/s    eta 2h 2m                 stan   2%[                    ] 144.00K  --.-KB/s    eta 2h 2m                stanf   2%[                    ] 144.00K  --.-KB/s    eta 2h 4m               stanfo   2%[                    ] 144.00K  --.-KB/s    eta 2h 4m              stanfor   2%[                    ] 144.00K  --.-KB/s    eta 2h 5m             stanford   2%[                    ] 144.00K  --.-KB/s    eta 2h 5m            stanfordS   2%[                    ] 144.00K  --.-KB/s    eta 2h 6m           stanfordSe   2%[                    ] 144.00K  --.-KB/s    eta 2h 6m          stanfordSen   2%[                    ] 144.00K  --.-KB/s    eta 2h 8m         stanfordSent   2%[                    ] 144.00K  --.-KB/s    eta 2h 8m        stanfordSenti   2%[                    ] 144.00K  --.-KB/s    eta 2h 9m       stanfordSentim   2%[                    ] 144.00K  --.-KB/s    eta 2h 9m      stanfordSentime   2%[                    ] 144.00K  --.-KB/s    eta 2h 10m    stanfordSentimen   2%[                    ] 144.00K  --.-KB/s    eta 2h 10m 
